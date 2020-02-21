@@ -1,0 +1,345 @@
+/* ------------全局----------- */
+body {
+    width: 1585px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.bodily_content {
+    width: 492px;
+    text-align: left;
+    color: #0f2a36;
+    font-size: 16px;
+    line-height: 1.25em;
+}
+
+.bodily_title {
+    color: #dd3b2a;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 1.25em;
+    margin-bottom: 0.5em;
+}
+
+.CSS_title {
+    color: #00374f;
+    width: 663px;
+    margin: 0 auto;
+    font-family: 'Adelle W01 Bold', 'Arvo', ''Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Liberation Serif", Georgia, serif;
+    font-size: 91px;
+    font-weight: 900;
+    position: relative;
+    top: -50px;
+    }
+
+/* -------header中的标题------- */
+.header_div {
+    height: 540px;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    margin: 0 auto;
+    background-image: linear-gradient(#ffffff, #edf6ff);
+    position: relative;    
+    z-index: -2;
+    opacity: 0.92;
+}
+
+.div_use {
+    margin: 0 auto;
+    margin-top: 53px;
+    border: 1px solid red;
+    width: 1041px;
+    height: -5px;
+    position: relative;
+    }
+
+.use_01 {
+    width: 200px;
+    margin: 0 auto;
+    margin-top: -4px;
+    border: 5px solid white;
+    width: 655px;
+    height: 0px;
+    position: relative;
+    }
+
+/* -----header中的其他内容-------- */
+.TheBeauty {
+    font-weight: 400;
+    font-style: italic;
+    color: #dd3b2a;
+    font-size: 22px;
+    width: 400px;
+    position: absolute;
+    top: 5%;
+    right: 23.8%;
+}
+
+.CSS_content {
+    border-bottom: 1px dotted;
+}
+
+.ADEMON {
+    display: block;
+    text-align: left;
+    color: #dd3b2a;
+    font-style: italic;
+    font-weight: 200;
+    font-size: 18px;
+    width: 300px;
+    line-height: 20px;
+    z-index: 2;
+    position: absolute;
+    top: 150px;
+    right: 250px;
+}
+
+/* --------bodily_01_div------- */
+.bodily_01_div {
+    border-top: 5px solid #bb3b33;
+    background-color: #ffffff;
+    width: 100%;
+    overflow: hidden;
+    opacity: 0.91;
+}
+
+.TheRoad_div {
+    width: 445px;
+    float: left;
+    margin-left: 17%;
+    margin-top: -20px;
+}
+
+.TheRoad_title {
+    width: 290px;
+}
+
+.SoWhat_div {
+    float: left;
+    margin-left: 100px;
+    margin-top: -20px;
+}
+
+.SoWhat_title {
+    width: 500px;
+}
+
+/* -------bodily_02_div----- */
+.bodily_02_div {
+    border-top: 5px solid #cce4fb;
+    border-bottom: 5px solid#cce4fb;
+    background-color: #ecf5ff;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.Part_div {
+    width: 490px;
+    margin-top: 45px;
+    margin-left: 272px;
+    margin-bottom: 50px;
+    position: relative;
+}
+
+.Part_title {
+    width: 260px;
+}
+
+.Part_p {
+    margin-bottom: 42px;
+    width: 492px;
+    text-align: left;
+    color: #0f2a36;
+    font-size: 17px;
+    line-height: 1.25em;
+}
+
+.Bene_div {
+    width: 482px;
+    float: left;
+    margin-left: 80px;
+    margin-top: 48px;
+}
+
+.Bene_title {
+    width: 169px;
+}
+
+.hands {
+    position: absolute;
+    left: 570px;
+    top: -10px;
+}
+
+.use_03_div {
+    border-bottom: 2px solid red;
+    height: 90px;
+    margin-left: 690px;
+    margin-top: -30px;
+    width: 222px;
+}
+
+.arm {
+    margin-top: 60px;
+    float: left;
+    margin-left: 408px;
+    margin-bottom: 47px;
+}
+
+/* ----------bodily_03_div-------- */
+.bodily_03_div {
+    padding-top: 42px;
+    border-bottom: 5px solid #2cabe1;
+    background: #ffffff;
+    width: 100%;
+    position: relative;
+    opacity: 0.91;
+}
+
+.Requ_title {
+    width: 240px;
+    margin: 0 auto;
+}
+
+.bodily_content_end_01 {
+    line-height: 1.25em;
+    margin-left: 270px;
+    width: 490px;
+}
+
+.bodily_content_end_02 {
+    line-height: 1.25em;
+    margin-left: 270px;
+    width: 490px;
+}
+
+.bodily_content_end_03 {
+    line-height: 1.25em;
+    width: 490px;
+    position: absolute;
+    top: 91px;
+    right: 277px;
+}
+
+.bodily_content_end_04 {
+    line-height: 1.25em;
+    width: 490px;
+    position: absolute;
+    right: 277px;
+    top: 208px;
+}
+
+.bodily_content_end_end_05 {
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 24px;
+    line-height: 1.25em;
+    padding-top: 37px;
+    padding-bottom: 28px;
+}
+
+.deepBlue_div {
+    width: 100%;
+    background-color: #00374f;
+}
+
+.deepBlue_p {
+    color: white;
+    margin-bottom: 0px;
+    word-spacing: 1.2em;
+    font-size: 24px;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+/* --------nav_div-------- */
+.nav_div {
+    border-top: 4px solid white;
+    width: 100%;
+    background-color: #2cabe1;
+    padding-bottom: 7px;
+    position: relative;
+}
+
+.nav_left {
+    width: 525px;
+    text-align: left;
+    border-right: 2px solid white;
+    margin-left: 270px;
+    margin-top: 45px;
+}
+
+.nav_right {
+    width: 300px;
+    height: 330px;
+    text-align: left;
+    position: absolute;
+    top: 30px;
+    right: 490px;
+}
+
+/* ---------a标签-------- */
+.a_blue {
+    color: #2babe1;
+    text-decoration: none;
+}
+
+.a_white {
+    color: #edf6ff;
+    text-decoration: none;
+}
+
+.a_black {
+    color: #00374f;
+    text-decoration: none;
+}
+
+.a_blue {
+    text-decoration: none;
+    color: #2babe1;
+}
+
+.a_dotted {
+    text-decoration: none;
+    color: white;
+    border-bottom: 1px white dotted;
+}
+
+/* ------z-index------- */
+.people_img {
+    position: absolute;
+    margin-left: 600px;
+    top: 200px;
+    width: 390px;
+    position: fixed;
+    animation:people 15s;
+    }
+    @keyframes people{
+        0%{
+            top: 621px;
+            margin-left: 600px;
+        }
+    }
+.star_img {
+    height:921px;
+    width: 923px;
+    position: absolute;
+    margin-left: 300px;
+    top: 90px;
+    position: fixed;
+    z-index: -1;
+    opacity: 0.85;
+    animation: star 2s linear infinite;
+}
+@keyframes star{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}

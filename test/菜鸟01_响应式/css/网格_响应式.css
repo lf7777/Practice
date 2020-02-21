@@ -1,0 +1,18 @@
+@media not print{
+body{
+    margin: 0;
+    padding: 0;
+}
+div{
+    height: 300px;
+    float: left;
+    width: 10%;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+[class="b"]{
+    color: blueviolet;
+}
+}
+

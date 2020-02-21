@@ -1,0 +1,22 @@
+.bodily_div{
+    margin: 0 auto;
+    width: 600px;
+    height: 600px;
+    border: 2px solid black;
+    position: relative;
+}
+.child01_div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    margin-top: 10%;
+}
+@media only screen and (min-width:1024px){
+    .child01_div{
+        width: 100%;
+    }
+}
+img{
+    min-width: 100px;
+    max-width: 100px;
+}

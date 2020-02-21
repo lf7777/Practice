@@ -1,0 +1,41 @@
+/* 下拉列表样式 */
+*{
+    margin: 0;
+    padding: 0;
+}
+.dropbtn{
+    font-size:16px ;
+    background-color: grey;
+    padding:10px;
+    width: 100px;
+    color: white;
+    border:none ;
+    cursor: pointer;
+}
+
+/* 下拉内容,默认隐藏 */
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 100px;
+}
+/* 下拉菜单的链接 */
+.dropdown-content a{
+    font-size: 16px;
+    padding: 8px;
+    color: white;
+    display:block;
+    background: grey;
+    text-decoration: none;
+}
+/* 鼠标移上去之后修改下拉菜单颜色 */
+.dropdown-content a:hover{
+    background: red;
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+.dropdown:hover .dropbtn{
+    background: black;
+}

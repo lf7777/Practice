@@ -1,0 +1,172 @@
+body {
+    margin: 0px;
+    background-color: #31271e;
+}
+
+.header_div {
+    margin-bottom: 0px;
+    height: 381px;
+    text-align: center;
+}
+
+.header {
+    background-repeat: no-repeat;
+}
+
+/* -----middle-----*/
+.bodyer {
+    background-image: url(../imgs/body.jpg);
+    width: 780px;
+    margin: auto;
+    background-repeat: repeat-y;
+    position: relative;
+}
+
+.header_01 {
+    margin: 0 auto;
+    height: 84px;
+    width: 592px;
+}
+
+.content_div {
+    margin-left: 94px;
+    margin-top: 0px;
+    background-image: url(../imgs/content_bkgd.jpg);
+    width: 604px;
+    background-repeat: repeat-y;
+}
+
+.title {
+    margin-left: 38px;
+}
+.title_2 {
+    margin-top: 13px;
+}
+.first_title {
+    margin-top: 5px;
+}
+
+.p_left {
+    font: 12px Georgia, Times New Roman, Times, serif;
+    margin-top: 9px;
+    line-height: 19px;
+    padding-left: 41px;
+    padding-right: 220px;
+    color: #362F27;
+}
+
+.p_left_in {
+    text-indent: 2em;
+}
+
+footer {
+    margin-top: 25px;
+    background-image: url(../imgs/bottom.jpg);
+    background-repeat: no-repeat;
+    width: 589px;
+    height: 82px;
+    font: 10px Verdana, Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.p_end_1 {
+    position: absolute;
+    left: 115px;
+    bottom: 35px;
+}
+.p_end_2 {
+    position: absolute;
+    left: 332px;
+    bottom: 4px;
+}
+.text_CSS {
+    color: #5d5144;
+}
+.red_toUnderline {
+    color: red;
+}
+
+.red_toUnderline:hover {
+    border-bottom: 1px solid red;
+    cursor: pointer;
+}
+
+.hui_toRed {
+    color: #5d5144;
+}
+
+.hui_toRed:hover {
+    cursor: pointer;
+    color: red;
+}
+
+/* -------right-------- */
+.right {
+    width: 146px;
+    height: 800px;
+    position: absolute;
+    top: 87px;
+    left: 64.9%;
+}
+.right_content {
+    line-height: 10px;
+    text-align: right;
+    font-size: 11px;
+    color: #362F27;
+}
+
+.right_Download {
+    margin-top: 0px;
+    margin-left: 5%;
+    color: #362F27;
+    font: 12px Georgia, Times New Roman, Times, serif
+}
+
+.black_toWhite {
+    color: black;
+    border-bottom: 1px solid black;
+}
+
+.black_toWhite:hover{
+    border-bottom: none;
+    color: white;
+    cursor: pointer;
+}
+
+.right_a_toRed {
+    text-decoration: none;
+    color: #754f38;
+}
+
+.right_a_toRed:hover {
+    color: #660510;
+    cursor: pointer;
+}
+
+.right_a_toBlack {
+    text-decoration: none;
+    font-style: italic;
+    color: #754f38;
+}
+
+.right_a_toBlack:hover {
+    font-style: italic;
+    color: #362F27;
+    cursor: pointer;
+}
+
+.right_title_height {
+    margin-top: 13px;
+    margin-bottom: -5px;
+}
+.right_Res{
+    line-height: 12px;
+}
+.right_a_tobro{
+    color: #B82A09;
+    text-decoration: none;
+}
+.right_a_tobro:hover{
+    color:#660510;
+    cursor: pointer;
+}
